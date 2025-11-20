@@ -38,6 +38,11 @@ jobs:
       - name: Get dependencies again
         run: flutter pub get
 
+      - name: Verify Android setup
+        run: |
+          cd android
+          ./gradlew tasks --all || true
+
       - name: Build APK
         run: flutter build apk --release --verbose
 
