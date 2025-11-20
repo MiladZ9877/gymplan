@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+  "appTitle": "GymPlan",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  "apiProvider": "API Provider",
+  "@apiProvider": {
+    "description": "API provider setting label"
+  },
+  "gemini": "Gemini",
+  "@gemini": {
+    "description": "Gemini API provider"
+  },
+  "ollama": "Ollama",
+  "@ollama": {
+    "description": "Ollama API provider"
+  },
+  "ollamaIp": "Ollama IP Address",
+  "@ollamaIp": {
+    "description": "Ollama IP address input label"
+  },
+  "ollamaPort": "Ollama Port",
+  "@ollamaPort": {
+    "description": "Ollama port input label"
+  },
+  "apiKey": "API Key",
+  "@apiKey": {
+    "description": "API key input label"
+  },
+  "geminiApiKey": "Gemini API Key",
+  "@geminiApiKey": {
+    "description": "Gemini API key input label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "persian": "Persian",
+  "@persian": {
+    "description": "Persian language option"
+  },
+  "bodyWeight": "Body Weight (kg)",
+  "@bodyWeight": {
+    "description": "Body weight input label"
+  },
+  "height": "Height (cm)",
+  "@height": {
+    "description": "Height input label"
+  },
+  "extraInfo": "Extra Information",
+  "@extraInfo": {
+    "description": "Extra information input label"
+  },
+  "extraInfoHint": "Enter any additional information (e.g., fitness goals, injuries, experience level)",
+  "@extraInfoHint": {
+    "description": "Extra information input hint"
+  },
+  "generatePlan": "Generate Workout Plan",
+  "@generatePlan": {
+    "description": "Generate workout plan button text"
+  },
+  "generating": "Generating...",
+  "@generating": {
+    "description": "Generating workout plan status"
+  },
+  "workoutPlan": "Workout Plan",
+  "@workoutPlan": {
+    "description": "Workout plan title"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error title"
+  },
+  "invalidInput": "Please enter valid values",
+  "@invalidInput": {
+    "description": "Invalid input error message"
+  },
+  "apiError": "Failed to generate workout plan. Please check your API settings.",
+  "@apiError": {
+    "description": "API error message"
+  }
+}
